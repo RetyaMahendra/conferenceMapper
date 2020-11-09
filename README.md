@@ -1,3 +1,3 @@
 # conferenceMapper
 
-Jitsi conferen API docker
+Jitsi conference Mapper API docker
